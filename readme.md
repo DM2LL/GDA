@@ -6,4 +6,5 @@
 ![image](https://user-images.githubusercontent.com/35179314/236575402-6fb04614-1a90-4ef3-835c-4de2d2c39db9.png)
 
 
-
+**Datasets:**
+We developed a novel, deep domain adaptation model, named Glaucoma Domain Adaptation (GDA), and applied it to three different ocular datasets: the Ocular Hypertension Treatment Study (OHTS), ACRIMA, and RIM-ONE, for both glaucoma diagnosis and forecasting (prediction). Fundus images in the OHTS were collected from subjects in 22 different centers in the U.S. using different cameras, with considerable variability in image quality, resolution, and characteristics. 
